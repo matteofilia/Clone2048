@@ -2,6 +2,8 @@
 
 This is a clone of the popular game, 2048.
 
+![Game Screenshot](screenshot.png)
+
 ## Installation
 
 This script / game requires pygame
@@ -15,3 +17,4 @@ If not, run ```python3 -m pip install pygame``` to install pygame to your local 
 Simply run ```python main.py```
 
 Alternatively, if python isn't python3, instead run ```python3 main.py```
+
